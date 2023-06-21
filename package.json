@@ -1,0 +1,15 @@
+{
+  "name": "testes_controledeestoqueapi",
+  "version": "1.0.0",
+  "description": "Testes na API Controle de Estoque",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "npx cypress run",
+    "cypress:open": "npx cypress open"
+  },
+  "author": "Roberto Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
