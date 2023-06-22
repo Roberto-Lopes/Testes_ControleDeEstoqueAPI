@@ -1,8 +1,8 @@
 {
-    "codigo": "BD5290",
-    "nome": "Disco de freio - Fremax",
-    "descrição": "GM Onix",
+    "codigo": "GI04",
+    "nome": "Filtro de combustível - Tecfil",
+    "descrição": "GM Corsa",
     "tipo": 2,
-    "valorCompra": 110,
-    "valorVenda": 185.50
+    "valorCompra": 8.50,
+    "valorVenda": 25
   }
