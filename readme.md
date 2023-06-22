@@ -9,7 +9,11 @@ Garantir o funcionamento de todas as funções CRUD na API Controle de Estoque.
 # Casos de teste
 
 - `Listar todos os produtos`: Verificar se o método retorna uma lista com todos os produtos cadastrados;
-- `Adicionar novo produto`: Verificar se o métododo retorna código 200 e o item é criado no banco de dados;
+- `Listar produto por id`: Verificar se o método retorna o produto correto especificado pelo id;
+- `Adicionar novo produto`: Verificar se o método retorna código 200 e o item é criado no banco de dados;
+- `Listar produto por id`: Verificar se o método retorna o produto correto especificado pelo id;
+- `Deletar produto por id`: Verificar se o método deleta o produto correto especificado pelo id;
+- `Atualizar produto por id`: Verificar se o método atualiza os atributos do produto especificado pelo id;
 
 # Autor
 
