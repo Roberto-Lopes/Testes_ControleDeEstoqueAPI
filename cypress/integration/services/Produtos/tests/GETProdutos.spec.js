@@ -7,4 +7,10 @@ describe('GET Produtos', () => {
             expect(response.body).to.be.not.null;
         })
     });
+
+    it('Listar produto por id', () => {
+        GETProdutos.produtoPorId(0).should((response) => {
+            expect(response.body).to.be.not.null;
+        })
+    })
 });

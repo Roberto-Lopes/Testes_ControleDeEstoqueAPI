@@ -8,6 +8,15 @@ function todosProdutos() {
     })
 }
 
+function produtoPorId(_idProduto) {
+    return cy.request({
+        method: 'GET',
+        url: `Produto/${_idProduto}`,
+        failOnStatusCode: false
+    })
+}
+
 export {
     todosProdutos,
+    produtoPorId,
 };
