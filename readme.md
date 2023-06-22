@@ -1,6 +1,7 @@
 <h1 align="center"> Testes na API Controle de Estoque </h1>
 
 ![concluido](https://img.shields.io/badge/Status-Concluido-blue)
+![tecnologia](https://img.shields.io/badge/Tecnologia%20Utilizada%3A-Cypress-green)
 
 
 # Descrição dos testes
